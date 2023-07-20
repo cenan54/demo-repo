@@ -1,2 +1,3 @@
 This is demo for learning GitHub!
-Ne güzel İstanbul be....
+
+Sonunu düşünen kahraman olamaz!
